@@ -14,7 +14,7 @@ class Resultado extends StatelessWidget {
     } else if (pontuacao < 16) {
       return "Impressionante!";
     } else {
-      return "Jedi!";
+      return "Jedi!!!";
     }
   }
 
